@@ -1,3 +1,5 @@
+⚠️ This repo has moved to https://github.com/luno/luno-mcp, this is an archive of a hackathon entry ⚠️
+
 ```
    __  ___        __    __  _____          __          __    ___           __
   /  |/  /__  ___/ /__ / / / ___/__  ___  / /______ __/ /_  / _ \___ _____/ /___ __
